@@ -10,7 +10,7 @@ This project uses the FontAwesome fix made by Pit Garbe that you can find at htt
     LICENSE
   }
   s.author       = { "Alex Usbergo" => "alexakadrone@gmail.com" }
-  s.source       = { :git => "https://github.com/alexdrone/ios-fontawesome.git", :commit => "a285913a2681c358fb1cb1a9ed2c52bd0c50df3e" }
+  s.source       = { :git => "https://github.com/alexdrone/ios-fontawesome.git", :commit => "a285913a26" }
   s.platform     = :ios, '5.0'
   s.source_files = '*.{h,m}'
   s.exclude_files = 'Demo'
